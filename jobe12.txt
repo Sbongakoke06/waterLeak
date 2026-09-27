@@ -1,0 +1,5 @@
+Pandas==3.0.2
+NumPy==2.4.6
+Scikit-learn==1.8.0
+Matplotlib==3.10.8
+Joblib==1.5.3
